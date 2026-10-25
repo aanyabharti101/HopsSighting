@@ -12,7 +12,7 @@ Collaborators:
 Aanya Bharti,
 Clara Nguyen,
 Thomas Siu,
-Omar Metwaly
+& Omar Metwaly
 
 
 ## 🎥 Demo Video
