@@ -14,6 +14,13 @@ Built for the **Hackachusetts hackathon** — Climate Tech & Clean Energy track.
 
 ---
 
+Collaborators:
+Aanya Bharti
+Clara Nguyen
+Thomas Siu
+Omar Metwaly
+
+
 ## Features & Functionality
 
 ### Interactive GIS Map
